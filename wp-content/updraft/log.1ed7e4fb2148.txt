@@ -1,0 +1,162 @@
+0000.000 (0) Opened log file at time: Tue, 17 Mar 2015 07:02:15 +0000 on http://localhost:8888
+0000.003 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.5.14 (Darwin Jonathans-MacBook-Pro.local 14.1.0 Darwin Kernel Version 14.1.0: Thu Feb 26 19:26:47 PST 2015; root:xnu-2782.10.73~1/RELEASE_X86_64 x86_64) MySQL: 5.5.38 Server: Apache/2.2.26 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.6 PHP/5.5.14 mod_ssl/2.2.26 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.18.2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 29.7M | 31.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 105561.6 Mb
+0000.007 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.010 (0) Requesting semaphore lock (fd)
+0000.013 (0) Set semaphore last lock (fd) time to 2015-03-17 07:02:15
+0000.014 (0) Semaphore lock (fd) complete
+0000.021 (0) Backup run: resumption=0, nonce=1ed7e4fb2148, begun at=1426575735 (0s ago), job type=backup
+0000.025 (0) Scheduling a resumption (1) after 300 seconds (1426576035) in case this run gets aborted
+0000.036 (0) Checking if we have a zip executable available
+0000.037 (0) Testing: /usr/bin/zip
+0000.042 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.043 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.044 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.045 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=127) (out=105) (deflated 17%)
+0000.046 (0) Output: total bytes=127, compressed=105 -> 17% savings
+0000.054 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=134) (out=109) (deflated 19%)
+0000.057 (0) Output: total bytes=261, compressed=214 -> 18% savings
+0000.068 (0) Working binary zip found: /usr/bin/zip
+0000.069 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.070 (0) Creation of backups of directories: beginning
+0000.074 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0000.145 (0) Total entities for the zip file: 388 directories, 2471 files (0 skipped as non-modified), 43.5 Mb
+0000.149 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.151 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.154 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.157 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.160 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.161 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.2 Mb, 2471 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0000.381 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: size is now: 2.10 Mb
+0000.386 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 600 files added (on-disk size: 2163 Kb)
+0000.389 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 700 files added (on-disk size: 2163 Kb)
+0000.391 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 800 files added (on-disk size: 2163 Kb)
+0000.394 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 900 files added (on-disk size: 2163 Kb)
+0000.397 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1000 files added (on-disk size: 2163 Kb)
+0000.398 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (21.3 Mb, 2471 files batched, 501 (1002) added so far); re-opening (prior size: 2163 Kb)
+0001.371 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: size is now: 9.40 Mb
+0001.381 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1100 files added (on-disk size: 9583.3 Kb)
+0001.386 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1200 files added (on-disk size: 9583.3 Kb)
+0001.393 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1300 files added (on-disk size: 9583.3 Kb)
+0001.398 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1400 files added (on-disk size: 9583.3 Kb)
+0001.401 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1500 files added (on-disk size: 9583.3 Kb)
+0001.401 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 Mb, 2471 files batched, 501 (1503) added so far); re-opening (prior size: 9583.3 Kb)
+0001.660 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: size is now: 11.30 Mb
+0001.667 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1600 files added (on-disk size: 11524.2 Kb)
+0001.673 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1700 files added (on-disk size: 11524.2 Kb)
+0001.680 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1800 files added (on-disk size: 11524.2 Kb)
+0001.683 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 1900 files added (on-disk size: 11524.2 Kb)
+0001.686 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 2000 files added (on-disk size: 11524.2 Kb)
+0001.687 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.8 Mb, 2471 files batched, 501 (2004) added so far); re-opening (prior size: 11524.2 Kb)
+0002.287 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: size is now: 14.50 Mb
+0002.292 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 2100 files added (on-disk size: 14847.2 Kb)
+0002.295 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 2200 files added (on-disk size: 14847.2 Kb)
+0002.299 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 2300 files added (on-disk size: 14847.2 Kb)
+0002.303 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip.tmp: 2400 files added (on-disk size: 14847.2 Kb)
+0002.546 (0) Created plugins zip (0) - 15671.5 Kb in 2.5 s (6342.8 Kb/s) (SHA1 checksum: a6ac8972e1d63f41f31dee7f25350af679d4073c)
+0002.548 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0002.576 (0) Total entities for the zip file: 132 directories, 698 files (0 skipped as non-modified), 10.4 Mb
+0002.579 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0002.582 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0002.585 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0002.588 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0002.590 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0002.591 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.2 Mb, 698 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0002.874 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: size is now: 4.20 Mb
+0002.880 (0) Zip: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: 600 files added (on-disk size: 4283.9 Kb)
+0003.023 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip.tmp: size is now: 6.10 Mb
+0003.068 (0) Created themes zip (0) - 6269.7 Kb in 0.5 s (12099.5 Kb/s) (SHA1 checksum: 9342560f2ed57532191e4cec8d7d2cd08db75680)
+0003.070 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0003.071 (0) Looking for candidates to back up in: /Users/jonathanbobrow/MIT_local/Playful/playful.media.mit.edu/wp-content/uploads
+0003.072 (0) finding files: 2015: adding to list (1)
+0003.072 (0) finding files: wp-svg-icons: adding to list (2)
+0003.073 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0003.076 (0) Total entities for the zip file: 4 directories, 16 files (0 skipped as non-modified), 0.1 Mb
+0003.085 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-uploads.zip.tmp: size is now: 0.10 Mb
+0003.089 (0) Created uploads zip (0) - 99.2 Kb in 0 s (6523.8 Kb/s) (SHA1 checksum: 1f1f64155736441f0778be3766b4ee689789153d)
+0003.091 (0) Beginning backup of other directories found in the content directory (index: 0)
+0003.092 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0003.093 (0) Looking for candidates to back up in: /Users/jonathanbobrow/MIT_local/Playful/playful.media.mit.edu/wp-content
+0003.094 (0) finding files: index.php: adding to list (1)
+0003.095 (0) finding files: plugins: skipping: this is the plugins directory
+0003.095 (0) finding files: themes: skipping: this is the themes directory
+0003.096 (0) finding files: updraft: skipping: this is the updraft directory
+0003.096 (0) finding files: upgrade: skipping: excluded by options
+0003.097 (0) finding files: uploads: skipping: this is the uploads directory
+0003.099 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 Mb
+0003.105 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-others.zip.tmp: size is now: 0.00 Mb
+0003.108 (0) Created others zip (0) - 0.2 Kb in 0 s (18.9 Kb/s) (SHA1 checksum: 54ea11f74833160f03d126a711442a67a8c1d409)
+0003.112 (0) Saving backup status to database (elements: 8)
+0003.114 (0) Beginning creation of database dump (WordPress DB)
+0003.120 (0) Table wp_playful_options: Total expected rows (approximate): 144
+0003.167 (0) Table wp_playful_options: Total rows added: 171 in 0.05 seconds
+0003.169 (0) Table wp_playful_options: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_options.table.gz - 124 Kb)
+0003.172 (0) Table wp_playful_users: Total expected rows (approximate): 1
+0003.174 (0) Table wp_playful_users: Total rows added: 1 in 0.00 seconds
+0003.175 (0) Table wp_playful_users: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_users.table.gz - 0.5 Kb)
+0003.178 (0) Table wp_playful_usermeta: Total expected rows (approximate): 26
+0003.180 (0) Table wp_playful_usermeta: Total rows added: 26 in 0.00 seconds
+0003.181 (0) Table wp_playful_usermeta: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_usermeta.table.gz - 1.3 Kb)
+0003.186 (0) Table wp_playful_commentmeta: Total expected rows (approximate): 0
+0003.188 (0) Table wp_playful_commentmeta: Total rows added: 0 in 0.00 seconds
+0003.189 (0) Table wp_playful_commentmeta: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_commentmeta.table.gz - 0.3 Kb)
+0003.192 (0) Table wp_playful_comments: Total expected rows (approximate): 1
+0003.194 (0) Table wp_playful_comments: Total rows added: 1 in 0.00 seconds
+0003.195 (0) Table wp_playful_comments: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_comments.table.gz - 0.6 Kb)
+0003.200 (0) Table wp_playful_links: Total expected rows (approximate): 0
+0003.202 (0) Table wp_playful_links: Total rows added: 0 in 0.00 seconds
+0003.203 (0) Table wp_playful_links: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_links.table.gz - 0.4 Kb)
+0003.206 (0) Table wp_playful_postmeta: Total expected rows (approximate): 350
+0003.224 (0) Table wp_playful_postmeta: Total rows added: 494 in 0.02 seconds
+0003.225 (0) Table wp_playful_postmeta: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_postmeta.table.gz - 10 Kb)
+0003.228 (0) Table wp_playful_posts: Total expected rows (approximate): 57
+0003.240 (0) Table wp_playful_posts: Total rows added: 57 in 0.01 seconds
+0003.241 (0) Table wp_playful_posts: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_posts.table.gz - 3.9 Kb)
+0003.244 (0) Table wp_playful_term_relationships: Total expected rows (approximate): 1
+0003.246 (0) Table wp_playful_term_relationships: Total rows added: 1 in 0.00 seconds
+0003.246 (0) Table wp_playful_term_relationships: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_term_relationships.table.gz - 0.3 Kb)
+0003.249 (0) Table wp_playful_term_taxonomy: Total expected rows (approximate): 1
+0003.251 (0) Table wp_playful_term_taxonomy: Total rows added: 1 in 0.00 seconds
+0003.252 (0) Table wp_playful_term_taxonomy: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_term_taxonomy.table.gz - 0.4 Kb)
+0003.256 (0) Table wp_playful_terms: Total expected rows (approximate): 1
+0003.258 (0) Table wp_playful_terms: Total rows added: 1 in 0.00 seconds
+0003.258 (0) Table wp_playful_terms: finishing file (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_terms.table.gz - 0.4 Kb)
+0003.262 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_options.table.gz (1/11): adding to final database dump
+0003.308 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_users.table.gz (2/11): adding to final database dump
+0003.310 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_usermeta.table.gz (3/11): adding to final database dump
+0003.312 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_commentmeta.table.gz (4/11): adding to final database dump
+0003.317 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_comments.table.gz (5/11): adding to final database dump
+0003.319 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_links.table.gz (6/11): adding to final database dump
+0003.320 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_postmeta.table.gz (7/11): adding to final database dump
+0003.328 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_posts.table.gz (8/11): adding to final database dump
+0003.330 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_term_relationships.table.gz (9/11): adding to final database dump
+0003.331 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_term_taxonomy.table.gz (10/11): adding to final database dump
+0003.332 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db-table-wp_playful_terms.table.gz (11/11): adding to final database dump
+0003.335 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db.gz: finished writing out complete database file (136 Kb)
+0003.340 (0) Total database tables backed up: 11 (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db.gz, size: 143213, checksum (SHA1): 357744b75f150934dd02d341c544f825f30eb1b3)
+0003.342 (0) Saving backup history
+0003.345 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0003.346 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0003.346 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0003.347 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-others.zip: others: This file has not yet been successfully uploaded: will queue
+0003.347 (0) backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db.gz: db: This file has not yet been successfully uploaded: will queue
+0003.349 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0003.351 (0) Cloud backup selection: none
+0003.352 (0) No remote despatch: user chose no remote backup service
+0003.355 (0) Recording as successfully uploaded: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-plugins.zip (5086b5c3c40d2e12a9d7f1f76cf6b9d2)
+0003.359 (0) Recording as successfully uploaded: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-themes.zip (c71bdd02d655e5b3ddf8bb686f6106a4)
+0003.363 (0) Recording as successfully uploaded: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-uploads.zip (d8d91963e7a64bf1d60e051f3c767311)
+0003.368 (0) Recording as successfully uploaded: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-others.zip (4fa53cdf7be9521fe49d35e1d6661949)
+0003.372 (0) Recording as successfully uploaded: backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db.gz (b8e2b0181284ee16bee416d6aae36416)
+0003.377 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0003.378 (0) Number of backup sets in history: 1
+0003.379 (0) Examining backup set with datestamp: 1426575735 (Mar 17 2015 07:02:15)
+0003.379 (0) 1426575735: db: this set includes a database (backup_2015-03-17-0702_Playful_Systems_1ed7e4fb2148-db.gz); db count is now 1
+0003.381 (0) 1426575735: this backup set remains non-empty (1/1); will retain in history
+0003.381 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0003.382 (0) Resume backup (1ed7e4fb2148, 0): finish run
+0003.384 (0) Decremented the semaphore (fd) by 1
+0003.384 (0) Semaphore (fd) unlocked
+0003.385 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0003.390 (0) No email will/can be sent - the user has not configured an email address.
+0003.391 (0) The backup apparently succeeded and is now complete
