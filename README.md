@@ -11,3 +11,4 @@ pluggins:
 - SVG Vector Icon
 - TM replace Howdy
 - Twitter Stream
+- UpdraftPlus Backup/Restore
